@@ -1,0 +1,8 @@
+com\web\controller\UserController.class
+com\mapper\UserMapper.class
+com\service\TestService.class
+com\commons\Result.class
+com\model\User.class
+com\service\Iml\UserServiceIml.class
+com\commons\Message.class
+com\service\UserService.class
